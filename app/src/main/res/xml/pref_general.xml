@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:title="SWITCH OPERATOR"
+        android:defaultValue="true"
+        android:key="checkOperator"
+        android:summaryOff="Disable Saf"
+        android:summaryOn="Disable Airtel"/>
+
+</PreferenceScreen>
